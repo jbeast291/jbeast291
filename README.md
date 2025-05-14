@@ -1,7 +1,7 @@
 ## Hi there 👋
 #### Full Stack Dev & Subnautica Modder
 
-17y, He/Him
+18y, He/Him
 
 
 - Languages:
