@@ -3,7 +3,6 @@
 
 18y, He/Him
 
-
 - Languages:
   - C#, Java, Python, Javascript/Typescript, [Monkey C](https://developer.garmin.com/connect-iq/monkey-c/), VBA🤮
 - Technologies/Programs
@@ -17,4 +16,4 @@
   - Minecraft:
     - [\#](https://github.com/jbeast291/hubplugin) Hub Plugin Minecraft
     - [\#](https://github.com/jbeast291/HungerGamesPlus2) Hunger Games Plus 2
-    - [\#](https://github.com/jbeast291/RiftEvent2) Rift Event (Unfinished)
+    - [\#](https://github.com/jbeast291/RiftEvent2) Rift Event (Will never be finished ;-;)
