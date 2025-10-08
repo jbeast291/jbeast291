@@ -4,7 +4,7 @@
 18y, He/Him
 
 - Languages:
-  - C#, Java, Python, Javascript/Typescript, [Monkey C](https://developer.garmin.com/connect-iq/monkey-c/), VBA🤮
+  - C#, Java, Python, Javascript/Typescript, [Monkey C](https://developer.garmin.com/connect-iq/monkey-c/), VBA🤮, GDScript
 - Technologies/Programs
   - [Docker](https://www.docker.com/), [Unity 3D](https://unity.com/), [BepInEx](https://github.com/BepInEx/BepInEx), [Harmony](https://github.com/BepInEx/HarmonyX),
     [Nginx](https://nginx.org/en/), [Node.js](https://nodejs.org/en), [Discord.js](https://discord.js.org/), [Spigot](https://www.spigotmc.org/)/[Paper](https://papermc.io/) Minecraft Plugins,
