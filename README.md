@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### Full Stack Dev & Subnautica Modder
+#### C# developer & Subnautica Modder
 
 18y, He/Him
 
