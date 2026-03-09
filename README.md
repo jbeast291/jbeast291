@@ -5,7 +5,6 @@
 
 - Languages:
   - C#, Java, GDScript
-  - Html/css as well
 - Projects:
   - Subnautica Modding Projects:
     - [Beneath The Waves](https://github.com/BeneathTheWaves) Team Member 
