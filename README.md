@@ -16,7 +16,7 @@ internal class Jbeast291{
   }
   
   [Register("Projects", "Main")]
-  private static void RegisterProjects)
+  private static void RegisterProjects()
   {
      ProjectHandler.main.RegsiterAsTeamMember("Beneath The Waves") // https://github.com/BeneathTheWaves
         .WithDescription("Lead Systems Engineer")
