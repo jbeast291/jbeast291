@@ -24,7 +24,7 @@ internal class Jbeast291{
   
      ProjectHandler.main.RegsiterAsTeamMember("The Red Plague") // https://github.com/ThePlagueSpreads
         .WithDescription("Ice Dragon Mod")
-        .WithDescription("I know a person who knows another person who knows another person who programs trp")
+        .WithDescription("I know a person who knows another person who knows another person who programs trp");
   
     ProjectHandler.main.regsiterPersonal("PersonalMods"); // https://github.com/jbeast291/Subnautica-mod
   }
